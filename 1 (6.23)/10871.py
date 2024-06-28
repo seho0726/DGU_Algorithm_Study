@@ -10,3 +10,4 @@ for num in A:
         print(num, end=' ')
 
 
+
