@@ -12,3 +12,4 @@ X.sort()
 #숫자하나씩 출력
 for p in range(N):
     print(X[p])
+
