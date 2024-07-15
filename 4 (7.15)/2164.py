@@ -27,3 +27,4 @@ if N > 1:
         n = n + 1
     ans = (N - 2 ** (n - 1)) * 2
     print(ans)
+
